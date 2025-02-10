@@ -5,7 +5,7 @@ const hiddenFeaturesBtn  = document.querySelector(".hidden-features");
 const companyBtn  = document.querySelector(".company-btn");
 const hiddenCompanyBtn  = document.querySelector(".hidden-company");
 
-
+// Dropdown using JS instead CSS
 
 ham.addEventListener("click", function(){
     header.classList.toggle("active");
